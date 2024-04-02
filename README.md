@@ -11,4 +11,4 @@ Para fazer o programa foi usado o IDE Java para compilação e execução do có
 Para rodar o programa basta voce escolher qual das 3 apostas irá realizar. Após escolhida a aposta, o programa vai pedir o valor(número ou letra) para que seja realizada a aposta de acordo com os requisitos da mesma. Esse foi um projeto simples. Obrigado pela visita!
 --------------------------------------------------------------------
 # CODIGO RODANDO
-<img src="LotoFacil/src/2024-04-02-18-42-47-Trim">
+<img src="LotoFacil/src/2024-04-02-18-42-47-Trim.gif">
